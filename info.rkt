@@ -7,3 +7,4 @@
 (define version "0.1")
 (define pkg-authors '(themetaschemer))
 (define compile-omit-paths '("net/pem/tests"))
+(define test-omit-paths '("net/pem/tests"))
